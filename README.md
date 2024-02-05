@@ -9,3 +9,5 @@ Seznam uživatelů je také zašifrovaný.</br>
 Nutné doplnit zašifrování všech souborů(seznam uživatelů a jednotlivé seznamy hesel)</br>
 </br>
 Vytvořeno v rámci výuky.</br>
+</br>
+Autor: Josef Pluhař AIK2_2024
